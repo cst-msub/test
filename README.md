@@ -10,5 +10,7 @@ We will be:
   
   3 - Complete the project
   
+  4 - Get a grade
+  
   
 Thanks for stopping by. 
